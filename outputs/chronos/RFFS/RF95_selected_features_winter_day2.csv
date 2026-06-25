@@ -1,0 +1,17 @@
+season,day,selected_feature
+winter,day2,avg_power_lag_1
+winter,day2,avg_power_lag_2
+winter,day2,avg_power_roll_mean_3
+winter,day2,avg_power_lag_2016
+winter,day2,avg_power_roll_mean_12
+winter,day2,avg_power_lag_288
+winter,day2,avg_power_roll_std_12
+winter,day2,avg_power_lag_6
+winter,day2,avg_power_lag_576
+winter,day2,sin_day_1
+winter,day2,avg_power_lag_3
+winter,day2,avg_power_lag_12
+winter,day2,avg_power_roll_mean_288
+winter,day2,sin_day_3
+winter,day2,sin_day_2
+winter,day2,cos_day_2
