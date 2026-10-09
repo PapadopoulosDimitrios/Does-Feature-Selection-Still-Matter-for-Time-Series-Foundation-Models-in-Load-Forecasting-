@@ -1,2 +1,5 @@
 # Does-Feature-Selection-Still-Matter-for-Time-Series-Foundation-Models-in-Load-Forecasting-
-this is for epei conference
+Paper will be presented at the  EPEi 2026 conference.
+
+More upon publication
+
